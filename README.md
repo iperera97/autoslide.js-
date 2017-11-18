@@ -4,7 +4,8 @@
 
 ## Installation
 
-- add .autoSlide() method for parent div or ul element, that hold child elements to auto slides
+- load autoslide.js file before load your script,
+- add .autoSlide() method for parent div or ul element, that hold child elements to auto slides.
 - add following css rule for animate the slideshow
   -	@keyframes autoSlide{
   
@@ -17,4 +18,4 @@
 			}
 
 		}
-  **you can customize change this animation for build a better auto slideshow**
+  **you can customize this animation for build a better automatic slideshow :blush:** 
