@@ -74,7 +74,5 @@ HTMLElement.prototype.autoSlide = function(){
 };
 
 
-	
-slide.autoSlide();
 
 
